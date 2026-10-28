@@ -1,5 +1,7 @@
 # image-watermark-remover
 
+![图片去水印效果](examples/img/图片去水印.jpg)
+
 纯 Python 图片去水印小工具。不依赖 GPU、不依赖深度学习模型，只要 `numpy + pillow` 两个包就能跑，单文件命令行即可使用。
 
 > 适合处理：**自己拍摄的图片 / 自己拥有版权的素材** 上的文字水印、Logo、半透明角标、日期戳等。
